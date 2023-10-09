@@ -1,0 +1,21 @@
+#name {
+    font-size: 2rem;
+}
+
+html {
+    background-color: rgb(247, 242, 235);
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 3rem;
+}
+
+.nav-items {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    align-items: center;
+}
